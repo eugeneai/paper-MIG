@@ -2,7 +2,7 @@
 
 LATEXMK=latexmk -lualatex -latexoption=-shell-escape
 TARGET=cherkashin-trans-with-LOOP
-TLK=talk-2020-10-16-RS
+TLK=talk-mda-2020-11
 
 run: $(TARGET).pdf
 
